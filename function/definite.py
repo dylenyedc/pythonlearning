@@ -1,4 +1,3 @@
-#杨悦20245007
 def connect(f,a,b,n):
     h=(b-a)/n
     area=0    
